@@ -6,13 +6,9 @@ IAAI-140 An End-to-End Solution for Named Entity Recognition in eCommerce Search
 
 ## Contact on LinkedIN
 
-[Bhushan](https://www.linkedin.com/in/bhushan-ramesh-bhange-477a1414/) 
-
-[Mitchell]()       
-
-[Priyanka]()
-
-[Thomas]()
+[Bhushan](https://www.linkedin.com/in/bhushan-ramesh-bhange-477a1414/) * [Mitchell](https://www.linkedin.com/in/mitchellbowden/)       
+[Priyanka](https://www.linkedin.com/in/priyanka-goyal2093/) * [Sean](https://www.linkedin.com/in/cheng1/) 
+[Thomas](https://www.linkedin.com/in/thomaspacker/) * [Faizan](https://www.linkedin.com/in/faizanjaved/)
 
 
 
