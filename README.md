@@ -15,7 +15,7 @@ IAAI-140 An End-to-End Solution for Named Entity Recognition in eCommerce Search
 ## Introduction Video 
 
 
-[ClickHere](https://youtu.be/p0XIu_vDUa8)
+[Click Here](https://youtu.be/p0XIu_vDUa8)
 
 
 ## Acknowledement and References
